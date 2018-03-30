@@ -1,5 +1,5 @@
 {
-  "name": "@ktsn/npm-package-example",
+  "name": "ktsn-npm-package-example",
   "version": "1.0.0",
   "main": "index.js",
   "author": "katashin",
