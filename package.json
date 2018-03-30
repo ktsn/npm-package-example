@@ -1,5 +1,9 @@
 {
   "name": "@ktsn/npm-package-example",
   "version": "1.0.0",
-  "main": "index.js"
+  "main": "index.js",
+  "author": "katashin",
+  "description": "Package example",
+  "keywords": ["example"],
+  "license": "MIT"
 }
