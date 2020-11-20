@@ -12,3 +12,4 @@ You will see published package on:
 
 * https://www.npmjs.com/package/ktsn-npm-package-example
 * https://unpkg.com/ktsn-npm-package-example
+test
